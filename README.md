@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @NickPMAUS
-- 👀 I’m interested in crypto, swift, nfl and family!
-- 🌱 I’m currently developing a file-sharing cryptocurrency based on the Ethereum netowrk
-- 💞️ I’m looking to collaborate on this and other projects
+- 👋 Hi, I’m Nick Mihailou 
+- 👀 I’m interested in startups, mobile development (Xcode -Swift- React Native -JavaScript Flutter -Dart-) and many sports (NFL, NRL, UFC, NBA)
+- 🐨 I’m currently growing KoalaDev, an app dev company I started in 2019. I'm also the CTO of Frenter
+- 🧑‍💻 Always looking for React developers for KoalaDev projects 
 - 📫 How to reach me 
 
 - email: nicholasmihailou@gmail.com
+- twitter: @nickmihailou
 - linkedin: Nicholas Mihailou
 
 <!---
