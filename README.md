@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick Mihailou 
-- 👀 I’m interested in startups, mobile development (Xcode -Swift- React Native -JavaScript Flutter -Dart-) and many sports (NFL, NRL, UFC, NBA)
+- 👀 I’m interested in startups, mobile development (Xcode -Swift- React Native -JavaScript- Flutter -Dart-) and many sports (NFL, NRL, UFC, NBA)
 - 🐨 I’m currently growing KoalaDev, an app dev company I started in 2019. I'm also the CTO of Frenter
 - 🧑‍💻 Always looking for React developers for KoalaDev projects 
 - 📫 How to reach me 
