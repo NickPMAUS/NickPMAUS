@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick Mihailou 
-- 👀 I’m interested in startups, mobile development (Xcode -Swift- React Native -JavaScript- Flutter -Dart-) and many sports (NFL, NRL, UFC, NBA)
+- 👀 I’m interested in startups, mobile development (Xcode -Swift- React Native -JavaScript- Flutter -Dart-)
 - 🕵️ Most of my projects are in priv repo's
-- 🤝 I'm currently the CTO of frenter.com. And was the founder of Encryptify, a blockchain based file storage platform. 
+- 🤝 I'm currently the CEO of ?
 - 🧑‍💻 Was interviewed for YC @ 16 for Encryptify (Youngest people to ever get a YC interview for a blockchain product) 
 - 📫 How to reach me 
 
